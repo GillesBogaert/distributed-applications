@@ -1,0 +1,27 @@
+Beschrijving - Gilles Bogaert
+
+
+
+Een beschrijving van welke microservices met elkaar communiceren en waarom.
+---------------------------------------------------------------------------
+1. 	Review, Recommendation en Film services met de Composite service om de JSON te combineren.
+2. 	De Zuul-Proxy met de GUI/View zodat er iets tussen de main provider en de view zit.
+3.	De Eureka Service met de services om ze te locaten en te load balancen.
+
+Een link naar je (public) github repository voor deze opdracht
+---------------------------------------------------------------------------
+https://github.com/GillesBogaert/distributed-applications
+
+
+
+Een link naar je (public) repository op docker hub
+---------------------------------------------------------------------------
+https://hub.docker.com/r/zapcrack/da-docker-assignment/
+
+
+
+Een beschrijving van interessante problemen die je bent tegengekomen
+---------------------------------------------------------------------------
+Het pushen van mijn docker image naar de docker hub registry is niet gelukt. Ik heb dit proberen te doen in the maven pom.xml met de build goals maar het lukte niet. Had ik nog meer tijd zou ik dit mischien kunnen oplossen.
+
+

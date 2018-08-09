@@ -1,0 +1,14 @@
+<settings>
+    <pluginGroups>
+        <pluginGroup>com.spotify</pluginGroup>
+    </pluginGroups>
+</settings>
+
+<server>
+        <id>MY-REGISTRY</id>
+        <username>imgillesbogaert@gmail.com</username>
+        <password>*</password>
+        <configuration>
+            <email>imgillesbogaert@gmail.com</email>
+        </configuration>
+</server>

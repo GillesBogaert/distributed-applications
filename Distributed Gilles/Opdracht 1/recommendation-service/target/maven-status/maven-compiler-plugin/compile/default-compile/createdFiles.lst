@@ -1,0 +1,5 @@
+gillesbogaert\controller\Config.class
+gillesbogaert\RecommendationServiceApp.class
+gillesbogaert\controller\RecommendationController.class
+gillesbogaert\entities\RecommendationService.class
+gillesbogaert\entities\Recommendation.class
